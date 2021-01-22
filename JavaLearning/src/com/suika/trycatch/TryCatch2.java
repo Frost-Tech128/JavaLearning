@@ -4,7 +4,11 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.InputMismatchException;
 import java.util.Scanner;
-
+/**
+ * 
+ * @author suika
+ *
+ */
 public class TryCatch2 {
 	public static void main(String[] args) {
 		Scanner keyboard = null;
